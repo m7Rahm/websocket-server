@@ -4,21 +4,13 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> ff739d2d21c3952163afb152af8fa45d924b3abb
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
-    "mssql": "^6.2.0",
-=======
->>>>>>> ff739d2d21c3952163afb152af8fa45d924b3abb
     "tedious": "^8.3.0"
   }
 }
